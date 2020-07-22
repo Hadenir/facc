@@ -2,7 +2,6 @@
 
 #include <QApplication>
 
-// To jest komentarz dla Oli.
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
